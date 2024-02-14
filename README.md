@@ -12,7 +12,7 @@ Esta aplicación Node.js proporciona un sistema básico de autenticación y auto
 - JSON_WEB_TOKEN_SECRET=tu_clave_secreta_aquí
 Reemplaza `tu_clave_secreta_aquí` con una clave secreta para la firma del token JWT.
 
-5. Inicia el servidor ejecutando `node server.js`.
+5. Inicia el servidor ejecutando `npm run start:dev`.
 
 ## Rutas
 
